@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\c\2.8b猜想\源.cpp(5,34): warning C4101: “n”: 未引用的局部变量
+  2.8b猜想.vcxproj -> C:\c\2.8b猜想\x64\Debug\2.8b猜想.exe
